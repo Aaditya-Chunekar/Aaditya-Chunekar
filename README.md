@@ -2,7 +2,7 @@
 <link href="https://fonts.cdnfonts.com/css/chesstype" rel="stylesheet">
 
 <h1 style="font-family: 'ChessType', sans-serif; font-size: 2.5em;">
-  ♟️ Hey There, Aaditya this end!
+ Hey There, Aaditya this end!
 </h1>
 
 <p style="font-family: 'ChessType', sans-serif; font-size: 1.2em;">
