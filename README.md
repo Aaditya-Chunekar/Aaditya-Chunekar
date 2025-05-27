@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @Aaditya-Chunekar
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning ML
-- 😄 Pronouns: He/Him
+<!-- Embed the ChessType font (note: won't affect global README text, only inline HTML) -->
+<link href="https://fonts.cdnfonts.com/css/chesstype" rel="stylesheet">
 
-<!---
-Aaditya-Chunekar/Aaditya-Chunekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 style="font-family: 'ChessType', sans-serif; font-size: 2.5em;">
+  ♟️ Hey There, Aaditya this end!
+</h1>
+
+<p style="font-family: 'ChessType', sans-serif; font-size: 1.2em;">
+  I'm passionate about Mathematics, Machine learning, Competitive Programming, Creative Coding and building creative solutions with a strategic mindset.
+</p>
+
+---
+
+### 🔧 Tech Stack
+- 🖥️ Languages: JavaScript, Python, C++
+- 🛠️ Tools: Git, VS Code
+- ☁️ Cloud: Firebase
+
+---
+
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/aaditya-chunekar-621974312/)
+
