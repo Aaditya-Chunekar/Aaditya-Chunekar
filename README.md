@@ -6,7 +6,7 @@
 </h1>
 
 <p style="font-family: 'ChessType', sans-serif; font-size: 1.2em;">
-  I'm passionate about Mathematics, Machine learning, Competitive Programming, Creative Coding and building creative solutions with a strategic mindset.
+  I'm passionate about Mathematics, Machine learning, Competitive Programming and building creative solutions with a strategic mindset.
 </p>
 
 ---
