@@ -18,6 +18,11 @@
 
 ---
 
+### 🎖️ Badges
+[![An image of @aadityachunekar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadityachunekar)](https://holopin.io/@aadityachunekar)
+
+---
+
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/aaditya-chunekar-621974312/)
 
