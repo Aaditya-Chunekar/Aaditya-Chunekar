@@ -9,5 +9,5 @@
   I'm passionate about Mathematics, Machine learning, Competitive Programming and building creative solutions with a strategic mindset.
 </p>
 
-### 🎖️ Badges
+### Hacktoberfest '25
 [![An image of @aadityachunekar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadityachunekar)](https://holopin.io/@aadityachunekar)
