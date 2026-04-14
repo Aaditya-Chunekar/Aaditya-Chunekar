@@ -10,8 +10,8 @@
 
 ### About
 
-- CS undergrad @ VIIT Pune &nbsp;·&nbsp; 
-- Head of Technical Operations, CyberCell VIIT &nbsp;·&nbsp;
+- CS undergrad @ VIIT Pune 
+- Head of Technical Operations, CyberCell VIIT 
 - Competitive programmer &nbsp;·&nbsp; [Codeforces](https://codeforces.com/profile/a1phacharl1e)  &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/aaditya7chunekar/)
 - Building open-source tools at the intersection of security, systems, and ML
 
@@ -50,9 +50,11 @@
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaditya-Chunekar&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" alt="GitHub stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-Chunekar&layout=compact&theme=default&hide_border=true" height="150" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aaditya-Chunekar&theme=dark&background=0d1117&border=ffffff30&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&sideNums=ffffff&currStreakNum=cccccc" height="180em"/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya-Chunekar&bg_color=0d1117&color=ffffff&line=ffffff&point=cccccc&area=true&area_color=333333&hide_border=true">
+  
+  
 </p>
 
 ---
