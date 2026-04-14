@@ -12,7 +12,7 @@
 
 - CS undergrad @ VIIT Pune &nbsp;·&nbsp; 
 - Head of Technical Operations, CyberCell VIIT &nbsp;·&nbsp; organiser of [VishwaCTF](https://vishwactf.com)
-- Competitive programmer &nbsp;·&nbsp; Codeforces [~1053](https://codeforces.com/profile/a1phacharl1e)
+- Competitive programmer &nbsp;·&nbsp; [Codeforces](https://codeforces.com/profile/a1phacharl1e)
 - Building open-source tools at the intersection of security, systems, and ML
 
 ---
