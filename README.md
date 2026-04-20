@@ -1,6 +1,6 @@
 <link href="https://fonts.cdnfonts.com/css/chesstype" rel="stylesheet">
 <h1 style="font-family: 'ChessType', sans-serif; font-size: 2.5em;">
-  Hello, Aaditya this end!
+  Aaditya Chunekar
 </h1>
 <p style="font-family: 'ChessType', sans-serif; font-size: 1.2em;">
   I'm passionate about Mathematics, Machine Learning, Competitive Programming and building creative solutions with a strategic mindset.
