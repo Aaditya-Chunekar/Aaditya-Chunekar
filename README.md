@@ -60,3 +60,7 @@
 ### Hacktoberfest '25
 
 [![Holopin badges](https://holopin.me/aadityachunekar)](https://holopin.io/@aadityachunekar)
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=Aaditya-Chunekar&label=Profile%20views&color=0e75b6&style=flat" alt="Aaditya-Chunekar" /> 
+</p>
