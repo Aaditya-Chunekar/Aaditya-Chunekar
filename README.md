@@ -36,8 +36,8 @@
 
 | Project | Description |
 |---|---|
+| [**teddy**](https://github.com/Aaditya-Chunekar/teddy) | Terminal text editor · markdown preview · syntax highlight |
 | [**mannr**](https://github.com/Aaditya-Chunekar/mannr) | ANN search library · tree-based indexing · O(d log N) · tested to 3M vectors |
-| [**cf**](https://github.com/Aaditya-Chunekar/cf) | Bash CLI for Codeforces · idempotent installer · zero dependencies |
 | [**odyssey**](https://github.com/Aaditya-Chunekar/odyssey) | Type any destination · fly over real 3D terrain · hear it narrated in any language |
 
 ---
