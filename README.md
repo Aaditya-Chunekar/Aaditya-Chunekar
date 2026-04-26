@@ -44,16 +44,16 @@
 
 ### Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Aaditya-Chunekar&theme=dark&background=0d1117&border=ffffff30&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&sideNums=ffffff&currStreakNum=cccccc" height="180em"/>
-    </td>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya-Chunekar&bg_color=0d1117&color=ffffff&line=ffffff&point=cccccc&area=true&area_color=333333&hide_border=true" height="180em"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://gh-heat.anishroy.com/api/aaditya-chunekar/svg?mobile=true&transparent=true&showMonthLabels=false&showDayLabels=false&showLegend=false&cellSize=12&colors=00000000,404040,808080,b0b0b0,ffffff" width="100%"/>
+
+<table><tr>
+<td><img src="https://github-readme-streak-stats.herokuapp.com?user=Aaditya-Chunekar&theme=dark&background=0d1117&border=ffffff30&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&sideNums=ffffff&currStreakNum=cccccc" height="180"/></td>
+<td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya-Chunekar&bg_color=0d1117&color=ffffff&line=ffffff&point=cccccc&area=true&area_color=333333&hide_border=true" height="180"/></td>
+</tr></table>
+
+</div>
 
 ---
 
