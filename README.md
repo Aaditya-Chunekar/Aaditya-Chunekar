@@ -1,8 +1,7 @@
-<link href="https://fonts.cdnfonts.com/css/chesstype" rel="stylesheet">
-<h1 style="font-family: 'ChessType', sans-serif; font-size: 2.5em;">
+<h1 style="font-size: 2.5em;">
   Aaditya Chunekar
 </h1>
-<p style="font-family: 'ChessType', sans-serif; font-size: 1.2em;">
+<p style="font-size: 1.2em;">
   I'm passionate about Mathematics, Machine Learning, Competitive Programming and building creative solutions with a strategic mindset.
 </p>
 
@@ -13,7 +12,7 @@
 - CS undergrad @ VIIT Pune 
 - Head of Technical Operations, CyberCell VIIT 
 - Competitive programmer &nbsp;·&nbsp; [Codeforces](https://codeforces.com/profile/a1phacharl1e)  &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/aaditya7chunekar/)
-- Building open-source tools at the intersection of security, systems, and ML
+- Building open-source tools in systems and ML
 
 ---
 
