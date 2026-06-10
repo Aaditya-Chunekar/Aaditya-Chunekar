@@ -12,7 +12,6 @@
 - CS undergrad @ VIIT Pune 
 - Head of Technical Operations, CyberCell VIIT 
 - Competitive programmer &nbsp;·&nbsp; [Codeforces](https://codeforces.com/profile/a1phacharl1e)  &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/aaditya7chunekar/)
-- Building open-source tools in systems and ML
 
 ---
 
