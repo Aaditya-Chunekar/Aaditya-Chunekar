@@ -57,7 +57,7 @@
 </td>
 <td valign="middle" align="center" width="25%">
 
-![octocat](octocat-mirrored.png)
+<img src="octocat-mirrored.png" width="220"/>
 
 </td>
 </tr>
