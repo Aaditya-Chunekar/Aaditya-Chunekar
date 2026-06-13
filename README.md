@@ -57,7 +57,7 @@
 </td>
 <td valign="middle" align="center" width="25%">
 
-<img src="https://github.com/Aaditya-Chunekar/Aaditya-Chunekar/blob/main/octocat-mirrored.png" width="220"/>
+![octocat](octocat-mirrored.png)
 
 </td>
 </tr>
