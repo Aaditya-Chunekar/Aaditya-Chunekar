@@ -1,6 +1,6 @@
 <h1>Aaditya Chunekar</h1>
 <img src="octocat-mirrored.png" width="220" align="right"/>
-<p>I'm passionate about Mathematics, Machine Learning, Competitive Programming and building creative solutions with a strategic mindset.</p>
+<p>I'm passionate about Compilers, ML & Competitive Programming</p>
 
 ### About
 - CS undergrad @ VIIT Pune
