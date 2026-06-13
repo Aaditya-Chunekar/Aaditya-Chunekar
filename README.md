@@ -1,6 +1,6 @@
 <h1>Aaditya Chunekar</h1>
 <img src="octocat-mirrored.png" width="220" align="right"/>
-<p>I'm passionate about Compilers, ML & Competitive Programming</p>
+<p>I'm passionate about Compilers, ML & Competitive Programming and anything interesting that pops up in my feed!</p>
 
 ### About
 - CS undergrad @ VIIT Pune
